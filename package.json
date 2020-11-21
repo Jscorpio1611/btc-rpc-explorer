@@ -49,7 +49,7 @@
 		"rn-electrum-client": "github:janoside/rn-electrum-client",
 		"semver": "^7.3.2",
 		"serve-favicon": "^2.5.0",
-		"simple-git": "^1.132.0"
+		"simple-git": "^2.23.0"
 	},
 	"devDependencies": {
 		"less": "3.9.0",
